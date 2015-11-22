@@ -18,7 +18,6 @@ package com.signaturit.api.groovy_sdk
 
 class SignaturitClientSpec extends spock.lang.Specification {
     
-    //static final VALID_TOKEN = "NWNjNTliNWZjZTFlNTRlMWEyMDZiOGUyZDExZWJmMGM0NGQ0ODgzZjkwZmU3MmI5MjQ5OTRkMDgzMGYwZWE2Mw"
     static final VALID_TOKEN = "put_a_valid_token_here_before_run_your_tests"
     static final INVALID_TOKEN = "NNNNNNNNNNTTTTTNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN"
     
